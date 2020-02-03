@@ -1,2 +1,3 @@
 Hi! I'm Bobby. I've been here for a while now.
 Some text on  a new line
+Interactive rebase Bobby here to cause problems
